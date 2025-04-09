@@ -19,7 +19,7 @@ public class ModBlocks {
 
     public static final DeferredBlock<Block> ALTAR = registerBlock("altar",
             ()-> new Block(BlockBehaviour.Properties.of()
-                    .strength(0.5f).requiresCorrectToolForDrops().sound(SoundType.AMETHYST)));
+                    .strength(4f).requiresCorrectToolForDrops().sound(SoundType.AMETHYST)));
 
 
 
