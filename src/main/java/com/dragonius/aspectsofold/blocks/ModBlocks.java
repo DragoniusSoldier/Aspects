@@ -1,8 +1,8 @@
-package com.dragonius.aspects.blocks;
+package com.dragonius.aspectsofold.blocks;
 
-import com.dragonius.aspects.Aspects;
-import com.dragonius.aspects.item.ModItems;
-import net.minecraft.world.item.BannerItem;
+import com.dragonius.aspectsofold.Aspects;
+import com.dragonius.aspectsofold.blocks.custom.AltarBlock;
+import com.dragonius.aspectsofold.item.ModItems;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
@@ -18,7 +18,7 @@ public class ModBlocks {
     public static final DeferredRegister.Blocks BLOCKS = DeferredRegister.createBlocks(Aspects.MODID);
 
     public static final DeferredBlock<Block> ALTAR = registerBlock("altar",
-            ()-> new Block(BlockBehaviour.Properties.of()
+            ()-> new AltarBlock(BlockBehaviour.Properties.of()
                     .strength(4f).requiresCorrectToolForDrops().sound(SoundType.AMETHYST)));
 
 

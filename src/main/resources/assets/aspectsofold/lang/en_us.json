@@ -1,12 +1,30 @@
 {
-  "item.aspectsofold.abysalheart": "Abysal Heart",
+  "item.aspectsofold.abysalheart": "Abyssal Heart",
+  "tooltip.aspectsofold.abysalheart": "The heart of the abyss",
+
   "item.aspectsofold.draconicsword": "Draconic Blade",
+  "tooltip.aspectsofold.draconicsword.shift_down": "A blade forged from the ashes of a fallen dragon",
+  "tooltip.aspectsofold.draconicsword": "hold shift",
+
   "item.aspectsofold.ancientaxe": "Ancient Axe",
+  "tooltip.aspectsofold.ancientaxe.shift_down": "An Ancient Axe, found deep below the surface",
+  "tooltip.aspectsofold.ancientaxe": "hold shift",
+
   "item.aspectsofold.shadowbow": "Shadow Bow",
-  "item.aspectsofold.gurdianshield": "Gurdian Shield",
+  "tooltip.aspectsofold.shadowbow.shift_down": "An eary bow, covered in dark mist",
+  "tooltip.aspectsofold.shadowbow": "hold shift",
+
+  "item.aspectsofold.gurdianshield": "Guardian Shield",
+  "tooltip.aspectsofold.gurdianshield.shift_down": "A spicky shield",
+  "tooltip.aspectsofold.gurdianshield": "hold shift",
+
   "item.aspectsofold.naturespickaxe": "Natrure's Pickaxe",
+  "tooltip.aspectsofold.naturespickaxe.shift_down": "good pickaxe ",
+  "tooltip.aspectsofold.naturespickaxe": "hold shift",
 
   "block.aspectsofold.altar": "Ancestral Altar",
+  "tooltip.aspects.altar.tooltip": "§7An altar, infused with old magic, able to alter your §r§l§n§o§2ASPECT§r",
+
 
   "creativetab.aspects.aspects_of_old": "Aspects of Old"
 }

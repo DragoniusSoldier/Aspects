@@ -1,8 +1,8 @@
-package com.dragonius.aspects.tab;
+package com.dragonius.aspectsofold.tab;
 
-import com.dragonius.aspects.Aspects;
-import com.dragonius.aspects.blocks.ModBlocks;
-import com.dragonius.aspects.item.ModItems;
+import com.dragonius.aspectsofold.Aspects;
+import com.dragonius.aspectsofold.blocks.ModBlocks;
+import com.dragonius.aspectsofold.item.ModItems;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
