@@ -1,5 +1,4 @@
 {
-	"parent": "block/cube_all",
 	"textures": {
 		"layer0": "aspectsofold:block/base",
 		"layer1": "aspectsofold:block/pilars",
